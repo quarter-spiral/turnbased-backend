@@ -16,6 +16,7 @@ The response body will be a JSON encoded object of match data like this:
 {
   "match": {
     "uuid": MATCHUUID,
+    "game": GAMEUUID,
     "players": [
       {
         "uuid": UUID1,
@@ -65,6 +66,51 @@ The response body will be a JSON encoded object of match data like this:
 
 ``results`` is an arbitrary object that can be set by a game
 
+### Retrieve all matches
+
+#### Authorization
+
+Apps or user. User can only be used when the ``player`` parameter is specified and is the UUID of the user.
+
+#### Request
+
+**GET** ``/matches``
+
+##### Parameters
+
+* **player**: UUID of a player that restricts the returned matches played by that player
+* **game**: UUID of a game that restricts the returned matches to only matches of those game
+
+##### Body
+
+Empty.
+
+#### Response
+
+##### Body
+
+Array of match data (see at top).
+
+### Retrieve a match
+
+#### Authorization
+
+Apps or user. User must be a player of the match that is going to be retrieved
+
+#### Request
+
+**GET** ``/matches/:MATCH-UUID:``
+
+##### Body
+
+Empty.
+
+#### Response
+
+##### Body
+
+Match data (see at top).
+
 ### Create a match
 
 #### Authorization
@@ -73,7 +119,7 @@ Apps or user. User only if he is the only user in the ``players`` list.  This wi
 
 #### Request
 
-**POST** ``/games/:GAME-UUID:``
+**POST** ``/matches``
 
 ##### Body
 
@@ -82,6 +128,7 @@ JSON encoded object of match data like this:
 ```javascript
 {
   "match": {
+    "game": GAMEUUID,
     "players": [
       {
         "uuid": UUID1,
@@ -98,7 +145,7 @@ JSON encoded object of match data like this:
 }
 ```
 
-Players must have a ``uuid`` set. Meta data for players and for matches is any arbitrary object.
+Match must have a ``game`` set. Players must have a ``uuid`` set. Meta data for players and for matches is any arbitrary object.
 
 
 #### Response
