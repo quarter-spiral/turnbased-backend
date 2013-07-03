@@ -1,0 +1,815 @@
+# Logfile created on 2013-06-25 11:42:33 +0200 by logger.rb/31641
+[06/25/13 11:42:33 +0200 walski.local (14787)] INFO : Starting the New Relic agent in "test" environment.
+[06/25/13 11:42:33 +0200 walski.local (14787)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[06/25/13 11:42:33 +0200 walski.local (14787)] INFO : Reading configuration from 
+[06/25/13 11:42:33 +0200 walski.local (14787)] ERROR : Unable to read configuration file : can't convert nil into String
+[06/25/13 11:42:33 +0200 walski.local (14787)] INFO : Disabling the Request Sampler.
+[06/25/13 11:42:33 +0200 walski.local (14787)] INFO : Environment: test
+[06/25/13 11:42:33 +0200 walski.local (14787)] INFO : No known dispatcher detected.
+[06/25/13 11:42:33 +0200 walski.local (14787)] INFO : Application: test
+[06/25/13 11:42:33 +0200 walski.local (14787)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[06/25/13 11:42:34 +0200 walski.local (14787)] INFO : Installing Net instrumentation
+[06/25/13 11:42:34 +0200 walski.local (14787)] INFO : Finished instrumentation
+[06/25/13 13:30:33 +0200 walski.local (31906)] INFO : Starting the New Relic agent in "test" environment.
+[06/25/13 13:30:33 +0200 walski.local (31906)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[06/25/13 13:30:33 +0200 walski.local (31906)] INFO : Reading configuration from 
+[06/25/13 13:30:33 +0200 walski.local (31906)] ERROR : Unable to read configuration file : can't convert nil into String
+[06/25/13 13:30:33 +0200 walski.local (31906)] INFO : Disabling the Request Sampler.
+[06/25/13 13:30:33 +0200 walski.local (31906)] INFO : Environment: test
+[06/25/13 13:30:33 +0200 walski.local (31906)] INFO : No known dispatcher detected.
+[06/25/13 13:30:33 +0200 walski.local (31906)] INFO : Application: test
+[06/25/13 13:30:33 +0200 walski.local (31906)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[06/25/13 13:30:33 +0200 walski.local (31906)] INFO : Installing Net instrumentation
+[06/25/13 13:30:33 +0200 walski.local (31906)] INFO : Finished instrumentation
+[07/01/13 14:30:35 +0200 walski.local (20450)] INFO : Starting the New Relic agent in "test" environment.
+[07/01/13 14:30:35 +0200 walski.local (20450)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/01/13 14:30:35 +0200 walski.local (20450)] INFO : Reading configuration from 
+[07/01/13 14:30:35 +0200 walski.local (20450)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/01/13 14:30:35 +0200 walski.local (20450)] INFO : Disabling the Request Sampler.
+[07/01/13 14:30:35 +0200 walski.local (20450)] INFO : Environment: test
+[07/01/13 14:30:35 +0200 walski.local (20450)] INFO : No known dispatcher detected.
+[07/01/13 14:30:35 +0200 walski.local (20450)] INFO : Application: test
+[07/01/13 14:30:35 +0200 walski.local (20450)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/01/13 14:30:35 +0200 walski.local (20450)] INFO : Installing Net instrumentation
+[07/01/13 14:30:35 +0200 walski.local (20450)] INFO : Finished instrumentation
+[07/01/13 14:31:00 +0200 walski.local (20505)] INFO : Starting the New Relic agent in "test" environment.
+[07/01/13 14:31:00 +0200 walski.local (20505)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/01/13 14:31:00 +0200 walski.local (20505)] INFO : Reading configuration from 
+[07/01/13 14:31:00 +0200 walski.local (20505)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/01/13 14:31:00 +0200 walski.local (20505)] INFO : Disabling the Request Sampler.
+[07/01/13 14:31:00 +0200 walski.local (20505)] INFO : Environment: test
+[07/01/13 14:31:00 +0200 walski.local (20505)] INFO : No known dispatcher detected.
+[07/01/13 14:31:00 +0200 walski.local (20505)] INFO : Application: test
+[07/01/13 14:31:00 +0200 walski.local (20505)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/01/13 14:31:00 +0200 walski.local (20505)] INFO : Installing Net instrumentation
+[07/01/13 14:31:00 +0200 walski.local (20505)] INFO : Finished instrumentation
+[07/01/13 14:33:33 +0200 walski.local (20708)] INFO : Starting the New Relic agent in "test" environment.
+[07/01/13 14:33:33 +0200 walski.local (20708)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/01/13 14:33:33 +0200 walski.local (20708)] INFO : Reading configuration from 
+[07/01/13 14:33:33 +0200 walski.local (20708)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/01/13 14:33:33 +0200 walski.local (20708)] INFO : Disabling the Request Sampler.
+[07/01/13 14:33:33 +0200 walski.local (20708)] INFO : Environment: test
+[07/01/13 14:33:33 +0200 walski.local (20708)] INFO : No known dispatcher detected.
+[07/01/13 14:33:33 +0200 walski.local (20708)] INFO : Application: test
+[07/01/13 14:33:33 +0200 walski.local (20708)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/01/13 14:33:33 +0200 walski.local (20708)] INFO : Installing Net instrumentation
+[07/01/13 14:33:33 +0200 walski.local (20708)] INFO : Finished instrumentation
+[07/01/13 14:34:28 +0200 walski.local (21055)] INFO : Starting the New Relic agent in "test" environment.
+[07/01/13 14:34:28 +0200 walski.local (21055)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/01/13 14:34:28 +0200 walski.local (21055)] INFO : Reading configuration from 
+[07/01/13 14:34:28 +0200 walski.local (21055)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/01/13 14:34:28 +0200 walski.local (21055)] INFO : Disabling the Request Sampler.
+[07/01/13 14:34:28 +0200 walski.local (21055)] INFO : Environment: test
+[07/01/13 14:34:28 +0200 walski.local (21055)] INFO : No known dispatcher detected.
+[07/01/13 14:34:28 +0200 walski.local (21055)] INFO : Application: test
+[07/01/13 14:34:28 +0200 walski.local (21055)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/01/13 14:34:28 +0200 walski.local (21055)] INFO : Installing Net instrumentation
+[07/01/13 14:34:28 +0200 walski.local (21055)] INFO : Finished instrumentation
+[07/01/13 14:45:51 +0200 walski.local (22577)] INFO : Starting the New Relic agent in "test" environment.
+[07/01/13 14:45:51 +0200 walski.local (22577)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/01/13 14:45:51 +0200 walski.local (22577)] INFO : Reading configuration from 
+[07/01/13 14:45:51 +0200 walski.local (22577)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/01/13 14:45:51 +0200 walski.local (22577)] INFO : Disabling the Request Sampler.
+[07/01/13 14:45:51 +0200 walski.local (22577)] INFO : Environment: test
+[07/01/13 14:45:51 +0200 walski.local (22577)] INFO : No known dispatcher detected.
+[07/01/13 14:45:51 +0200 walski.local (22577)] INFO : Application: test
+[07/01/13 14:45:51 +0200 walski.local (22577)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/01/13 14:45:51 +0200 walski.local (22577)] INFO : Installing Net instrumentation
+[07/01/13 14:45:51 +0200 walski.local (22577)] INFO : Finished instrumentation
+[07/01/13 14:47:52 +0200 walski.local (22670)] INFO : Starting the New Relic agent in "test" environment.
+[07/01/13 14:47:52 +0200 walski.local (22670)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/01/13 14:47:52 +0200 walski.local (22670)] INFO : Reading configuration from 
+[07/01/13 14:47:52 +0200 walski.local (22670)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/01/13 14:47:52 +0200 walski.local (22670)] INFO : Disabling the Request Sampler.
+[07/01/13 14:47:52 +0200 walski.local (22670)] INFO : Environment: test
+[07/01/13 14:47:52 +0200 walski.local (22670)] INFO : No known dispatcher detected.
+[07/01/13 14:47:52 +0200 walski.local (22670)] INFO : Application: test
+[07/01/13 14:47:52 +0200 walski.local (22670)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/01/13 14:47:52 +0200 walski.local (22670)] INFO : Installing Net instrumentation
+[07/01/13 14:47:52 +0200 walski.local (22670)] INFO : Finished instrumentation
+[07/03/13 12:51:22 +0200 walski.local (17488)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 12:51:22 +0200 walski.local (17488)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 12:51:22 +0200 walski.local (17488)] INFO : Reading configuration from 
+[07/03/13 12:51:22 +0200 walski.local (17488)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 12:51:22 +0200 walski.local (17488)] INFO : Enabling the Request Sampler.
+[07/03/13 12:51:22 +0200 walski.local (17488)] INFO : Environment: test
+[07/03/13 12:51:22 +0200 walski.local (17488)] INFO : No known dispatcher detected.
+[07/03/13 12:51:22 +0200 walski.local (17488)] INFO : Application: test
+[07/03/13 12:51:22 +0200 walski.local (17488)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 12:51:22 +0200 walski.local (17488)] INFO : Installing Net instrumentation
+[07/03/13 12:51:22 +0200 walski.local (17488)] INFO : Finished instrumentation
+[07/03/13 12:52:40 +0200 walski.local (17593)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 12:52:40 +0200 walski.local (17593)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 12:52:40 +0200 walski.local (17593)] INFO : Reading configuration from 
+[07/03/13 12:52:40 +0200 walski.local (17593)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 12:52:40 +0200 walski.local (17593)] INFO : Enabling the Request Sampler.
+[07/03/13 12:52:40 +0200 walski.local (17593)] INFO : Environment: test
+[07/03/13 12:52:40 +0200 walski.local (17593)] INFO : No known dispatcher detected.
+[07/03/13 12:52:40 +0200 walski.local (17593)] INFO : Application: test
+[07/03/13 12:52:40 +0200 walski.local (17593)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 12:52:40 +0200 walski.local (17593)] INFO : Installing Net instrumentation
+[07/03/13 12:52:40 +0200 walski.local (17593)] INFO : Finished instrumentation
+[07/03/13 12:55:42 +0200 walski.local (17828)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 12:55:42 +0200 walski.local (17828)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 12:55:42 +0200 walski.local (17828)] INFO : Reading configuration from 
+[07/03/13 12:55:42 +0200 walski.local (17828)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 12:55:42 +0200 walski.local (17828)] INFO : Enabling the Request Sampler.
+[07/03/13 12:55:42 +0200 walski.local (17828)] INFO : Environment: test
+[07/03/13 12:55:42 +0200 walski.local (17828)] INFO : No known dispatcher detected.
+[07/03/13 12:55:42 +0200 walski.local (17828)] INFO : Application: test
+[07/03/13 12:55:42 +0200 walski.local (17828)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 12:55:42 +0200 walski.local (17828)] INFO : Installing Net instrumentation
+[07/03/13 12:55:42 +0200 walski.local (17828)] INFO : Finished instrumentation
+[07/03/13 12:59:39 +0200 walski.local (18781)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 12:59:39 +0200 walski.local (18781)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 12:59:39 +0200 walski.local (18781)] INFO : Reading configuration from 
+[07/03/13 12:59:39 +0200 walski.local (18781)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 12:59:39 +0200 walski.local (18781)] INFO : Enabling the Request Sampler.
+[07/03/13 12:59:39 +0200 walski.local (18781)] INFO : Environment: test
+[07/03/13 12:59:39 +0200 walski.local (18781)] INFO : No known dispatcher detected.
+[07/03/13 12:59:39 +0200 walski.local (18781)] INFO : Application: test
+[07/03/13 12:59:39 +0200 walski.local (18781)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 12:59:39 +0200 walski.local (18781)] INFO : Installing Net instrumentation
+[07/03/13 12:59:39 +0200 walski.local (18781)] INFO : Finished instrumentation
+[07/03/13 13:02:18 +0200 walski.local (19416)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 13:02:18 +0200 walski.local (19416)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 13:02:18 +0200 walski.local (19416)] INFO : Reading configuration from 
+[07/03/13 13:02:18 +0200 walski.local (19416)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 13:02:18 +0200 walski.local (19416)] INFO : Enabling the Request Sampler.
+[07/03/13 13:02:18 +0200 walski.local (19416)] INFO : Environment: test
+[07/03/13 13:02:18 +0200 walski.local (19416)] INFO : No known dispatcher detected.
+[07/03/13 13:02:18 +0200 walski.local (19416)] INFO : Application: test
+[07/03/13 13:02:18 +0200 walski.local (19416)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 13:02:18 +0200 walski.local (19416)] INFO : Installing Net instrumentation
+[07/03/13 13:02:18 +0200 walski.local (19416)] INFO : Finished instrumentation
+[07/03/13 13:03:07 +0200 walski.local (19506)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 13:03:07 +0200 walski.local (19506)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 13:03:07 +0200 walski.local (19506)] INFO : Reading configuration from 
+[07/03/13 13:03:07 +0200 walski.local (19506)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 13:03:07 +0200 walski.local (19506)] INFO : Enabling the Request Sampler.
+[07/03/13 13:03:07 +0200 walski.local (19506)] INFO : Environment: test
+[07/03/13 13:03:07 +0200 walski.local (19506)] INFO : No known dispatcher detected.
+[07/03/13 13:03:07 +0200 walski.local (19506)] INFO : Application: test
+[07/03/13 13:03:07 +0200 walski.local (19506)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 13:03:07 +0200 walski.local (19506)] INFO : Installing Net instrumentation
+[07/03/13 13:03:07 +0200 walski.local (19506)] INFO : Finished instrumentation
+[07/03/13 13:04:03 +0200 walski.local (19661)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 13:04:03 +0200 walski.local (19661)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 13:04:03 +0200 walski.local (19661)] INFO : Reading configuration from 
+[07/03/13 13:04:03 +0200 walski.local (19661)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 13:04:03 +0200 walski.local (19661)] INFO : Enabling the Request Sampler.
+[07/03/13 13:04:03 +0200 walski.local (19661)] INFO : Environment: test
+[07/03/13 13:04:03 +0200 walski.local (19661)] INFO : No known dispatcher detected.
+[07/03/13 13:04:03 +0200 walski.local (19661)] INFO : Application: test
+[07/03/13 13:04:03 +0200 walski.local (19661)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 13:04:03 +0200 walski.local (19661)] INFO : Installing Net instrumentation
+[07/03/13 13:04:03 +0200 walski.local (19661)] INFO : Finished instrumentation
+[07/03/13 13:05:36 +0200 walski.local (20060)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 13:05:36 +0200 walski.local (20060)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 13:05:36 +0200 walski.local (20060)] INFO : Reading configuration from 
+[07/03/13 13:05:36 +0200 walski.local (20060)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 13:05:36 +0200 walski.local (20060)] INFO : Enabling the Request Sampler.
+[07/03/13 13:05:36 +0200 walski.local (20060)] INFO : Environment: test
+[07/03/13 13:05:36 +0200 walski.local (20060)] INFO : No known dispatcher detected.
+[07/03/13 13:05:36 +0200 walski.local (20060)] INFO : Application: test
+[07/03/13 13:05:36 +0200 walski.local (20060)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 13:05:36 +0200 walski.local (20060)] INFO : Installing Net instrumentation
+[07/03/13 13:05:36 +0200 walski.local (20060)] INFO : Finished instrumentation
+[07/03/13 13:06:33 +0200 walski.local (20159)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 13:06:33 +0200 walski.local (20159)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 13:06:33 +0200 walski.local (20159)] INFO : Reading configuration from 
+[07/03/13 13:06:33 +0200 walski.local (20159)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 13:06:33 +0200 walski.local (20159)] INFO : Enabling the Request Sampler.
+[07/03/13 13:06:33 +0200 walski.local (20159)] INFO : Environment: test
+[07/03/13 13:06:33 +0200 walski.local (20159)] INFO : No known dispatcher detected.
+[07/03/13 13:06:33 +0200 walski.local (20159)] INFO : Application: test
+[07/03/13 13:06:33 +0200 walski.local (20159)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 13:06:34 +0200 walski.local (20159)] INFO : Installing Net instrumentation
+[07/03/13 13:06:34 +0200 walski.local (20159)] INFO : Finished instrumentation
+[07/03/13 13:07:04 +0200 walski.local (20314)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 13:07:04 +0200 walski.local (20314)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 13:07:04 +0200 walski.local (20314)] INFO : Reading configuration from 
+[07/03/13 13:07:04 +0200 walski.local (20314)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 13:07:04 +0200 walski.local (20314)] INFO : Enabling the Request Sampler.
+[07/03/13 13:07:04 +0200 walski.local (20314)] INFO : Environment: test
+[07/03/13 13:07:04 +0200 walski.local (20314)] INFO : No known dispatcher detected.
+[07/03/13 13:07:04 +0200 walski.local (20314)] INFO : Application: test
+[07/03/13 13:07:04 +0200 walski.local (20314)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 13:07:04 +0200 walski.local (20314)] INFO : Installing Net instrumentation
+[07/03/13 13:07:04 +0200 walski.local (20314)] INFO : Finished instrumentation
+[07/03/13 13:07:45 +0200 walski.local (20428)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 13:07:45 +0200 walski.local (20428)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 13:07:45 +0200 walski.local (20428)] INFO : Reading configuration from 
+[07/03/13 13:07:45 +0200 walski.local (20428)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 13:07:45 +0200 walski.local (20428)] INFO : Enabling the Request Sampler.
+[07/03/13 13:07:45 +0200 walski.local (20428)] INFO : Environment: test
+[07/03/13 13:07:45 +0200 walski.local (20428)] INFO : No known dispatcher detected.
+[07/03/13 13:07:45 +0200 walski.local (20428)] INFO : Application: test
+[07/03/13 13:07:45 +0200 walski.local (20428)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 13:07:45 +0200 walski.local (20428)] INFO : Installing Net instrumentation
+[07/03/13 13:07:45 +0200 walski.local (20428)] INFO : Finished instrumentation
+[07/03/13 13:18:25 +0200 walski.local (20624)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 13:18:25 +0200 walski.local (20624)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 13:18:25 +0200 walski.local (20624)] INFO : Reading configuration from 
+[07/03/13 13:18:25 +0200 walski.local (20624)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 13:18:25 +0200 walski.local (20624)] INFO : Enabling the Request Sampler.
+[07/03/13 13:18:25 +0200 walski.local (20624)] INFO : Environment: test
+[07/03/13 13:18:25 +0200 walski.local (20624)] INFO : No known dispatcher detected.
+[07/03/13 13:18:25 +0200 walski.local (20624)] INFO : Application: test
+[07/03/13 13:18:25 +0200 walski.local (20624)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 13:18:25 +0200 walski.local (20624)] INFO : Installing Net instrumentation
+[07/03/13 13:18:25 +0200 walski.local (20624)] INFO : Finished instrumentation
+[07/03/13 13:19:38 +0200 walski.local (20726)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 13:19:38 +0200 walski.local (20726)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 13:19:38 +0200 walski.local (20726)] INFO : Reading configuration from 
+[07/03/13 13:19:38 +0200 walski.local (20726)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 13:19:38 +0200 walski.local (20726)] INFO : Enabling the Request Sampler.
+[07/03/13 13:19:38 +0200 walski.local (20726)] INFO : Environment: test
+[07/03/13 13:19:38 +0200 walski.local (20726)] INFO : No known dispatcher detected.
+[07/03/13 13:19:38 +0200 walski.local (20726)] INFO : Application: test
+[07/03/13 13:19:38 +0200 walski.local (20726)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 13:19:38 +0200 walski.local (20726)] INFO : Installing Net instrumentation
+[07/03/13 13:19:38 +0200 walski.local (20726)] INFO : Finished instrumentation
+[07/03/13 13:20:42 +0200 walski.local (20934)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 13:20:42 +0200 walski.local (20934)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 13:20:42 +0200 walski.local (20934)] INFO : Reading configuration from 
+[07/03/13 13:20:42 +0200 walski.local (20934)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 13:20:42 +0200 walski.local (20934)] INFO : Enabling the Request Sampler.
+[07/03/13 13:20:42 +0200 walski.local (20934)] INFO : Environment: test
+[07/03/13 13:20:42 +0200 walski.local (20934)] INFO : No known dispatcher detected.
+[07/03/13 13:20:42 +0200 walski.local (20934)] INFO : Application: test
+[07/03/13 13:20:42 +0200 walski.local (20934)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 13:20:42 +0200 walski.local (20934)] INFO : Installing Net instrumentation
+[07/03/13 13:20:42 +0200 walski.local (20934)] INFO : Finished instrumentation
+[07/03/13 13:24:52 +0200 walski.local (21273)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 13:24:52 +0200 walski.local (21273)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 13:24:52 +0200 walski.local (21273)] INFO : Reading configuration from 
+[07/03/13 13:24:52 +0200 walski.local (21273)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 13:24:52 +0200 walski.local (21273)] INFO : Enabling the Request Sampler.
+[07/03/13 13:24:52 +0200 walski.local (21273)] INFO : Environment: test
+[07/03/13 13:24:52 +0200 walski.local (21273)] INFO : No known dispatcher detected.
+[07/03/13 13:24:52 +0200 walski.local (21273)] INFO : Application: test
+[07/03/13 13:24:52 +0200 walski.local (21273)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 13:24:52 +0200 walski.local (21273)] INFO : Installing Net instrumentation
+[07/03/13 13:24:52 +0200 walski.local (21273)] INFO : Finished instrumentation
+[07/03/13 13:25:49 +0200 walski.local (21596)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 13:25:49 +0200 walski.local (21596)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 13:25:49 +0200 walski.local (21596)] INFO : Reading configuration from 
+[07/03/13 13:25:49 +0200 walski.local (21596)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 13:25:49 +0200 walski.local (21596)] INFO : Enabling the Request Sampler.
+[07/03/13 13:25:49 +0200 walski.local (21596)] INFO : Environment: test
+[07/03/13 13:25:49 +0200 walski.local (21596)] INFO : No known dispatcher detected.
+[07/03/13 13:25:49 +0200 walski.local (21596)] INFO : Application: test
+[07/03/13 13:25:49 +0200 walski.local (21596)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 13:25:49 +0200 walski.local (21596)] INFO : Installing Net instrumentation
+[07/03/13 13:25:49 +0200 walski.local (21596)] INFO : Finished instrumentation
+[07/03/13 14:03:50 +0200 walski.local (25381)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:03:50 +0200 walski.local (25381)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:03:50 +0200 walski.local (25381)] INFO : Reading configuration from 
+[07/03/13 14:03:50 +0200 walski.local (25381)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:03:50 +0200 walski.local (25381)] INFO : Enabling the Request Sampler.
+[07/03/13 14:03:50 +0200 walski.local (25381)] INFO : Environment: test
+[07/03/13 14:03:50 +0200 walski.local (25381)] INFO : No known dispatcher detected.
+[07/03/13 14:03:50 +0200 walski.local (25381)] INFO : Application: test
+[07/03/13 14:03:50 +0200 walski.local (25381)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:03:50 +0200 walski.local (25381)] INFO : Installing Net instrumentation
+[07/03/13 14:03:50 +0200 walski.local (25381)] INFO : Finished instrumentation
+[07/03/13 14:04:39 +0200 walski.local (25465)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:04:39 +0200 walski.local (25465)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:04:39 +0200 walski.local (25465)] INFO : Reading configuration from 
+[07/03/13 14:04:39 +0200 walski.local (25465)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:04:39 +0200 walski.local (25465)] INFO : Enabling the Request Sampler.
+[07/03/13 14:04:39 +0200 walski.local (25465)] INFO : Environment: test
+[07/03/13 14:04:39 +0200 walski.local (25465)] INFO : No known dispatcher detected.
+[07/03/13 14:04:39 +0200 walski.local (25465)] INFO : Application: test
+[07/03/13 14:04:39 +0200 walski.local (25465)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:04:39 +0200 walski.local (25465)] INFO : Installing Net instrumentation
+[07/03/13 14:04:39 +0200 walski.local (25465)] INFO : Finished instrumentation
+[07/03/13 14:05:12 +0200 walski.local (25608)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:05:12 +0200 walski.local (25608)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:05:12 +0200 walski.local (25608)] INFO : Reading configuration from 
+[07/03/13 14:05:12 +0200 walski.local (25608)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:05:12 +0200 walski.local (25608)] INFO : Enabling the Request Sampler.
+[07/03/13 14:05:12 +0200 walski.local (25608)] INFO : Environment: test
+[07/03/13 14:05:12 +0200 walski.local (25608)] INFO : No known dispatcher detected.
+[07/03/13 14:05:12 +0200 walski.local (25608)] INFO : Application: test
+[07/03/13 14:05:12 +0200 walski.local (25608)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:05:12 +0200 walski.local (25608)] INFO : Installing Net instrumentation
+[07/03/13 14:05:12 +0200 walski.local (25608)] INFO : Finished instrumentation
+[07/03/13 14:05:58 +0200 walski.local (25729)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:05:58 +0200 walski.local (25729)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:05:58 +0200 walski.local (25729)] INFO : Reading configuration from 
+[07/03/13 14:05:58 +0200 walski.local (25729)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:05:58 +0200 walski.local (25729)] INFO : Enabling the Request Sampler.
+[07/03/13 14:05:58 +0200 walski.local (25729)] INFO : Environment: test
+[07/03/13 14:05:58 +0200 walski.local (25729)] INFO : No known dispatcher detected.
+[07/03/13 14:05:58 +0200 walski.local (25729)] INFO : Application: test
+[07/03/13 14:05:58 +0200 walski.local (25729)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:05:58 +0200 walski.local (25729)] INFO : Installing Net instrumentation
+[07/03/13 14:05:58 +0200 walski.local (25729)] INFO : Finished instrumentation
+[07/03/13 14:07:02 +0200 walski.local (26013)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:07:02 +0200 walski.local (26013)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:07:02 +0200 walski.local (26013)] INFO : Reading configuration from 
+[07/03/13 14:07:02 +0200 walski.local (26013)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:07:02 +0200 walski.local (26013)] INFO : Enabling the Request Sampler.
+[07/03/13 14:07:02 +0200 walski.local (26013)] INFO : Environment: test
+[07/03/13 14:07:02 +0200 walski.local (26013)] INFO : No known dispatcher detected.
+[07/03/13 14:07:02 +0200 walski.local (26013)] INFO : Application: test
+[07/03/13 14:07:02 +0200 walski.local (26013)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:07:02 +0200 walski.local (26013)] INFO : Installing Net instrumentation
+[07/03/13 14:07:02 +0200 walski.local (26013)] INFO : Finished instrumentation
+[07/03/13 14:07:49 +0200 walski.local (26122)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:07:49 +0200 walski.local (26122)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:07:49 +0200 walski.local (26122)] INFO : Reading configuration from 
+[07/03/13 14:07:49 +0200 walski.local (26122)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:07:49 +0200 walski.local (26122)] INFO : Enabling the Request Sampler.
+[07/03/13 14:07:49 +0200 walski.local (26122)] INFO : Environment: test
+[07/03/13 14:07:49 +0200 walski.local (26122)] INFO : No known dispatcher detected.
+[07/03/13 14:07:49 +0200 walski.local (26122)] INFO : Application: test
+[07/03/13 14:07:49 +0200 walski.local (26122)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:07:49 +0200 walski.local (26122)] INFO : Installing Net instrumentation
+[07/03/13 14:07:49 +0200 walski.local (26122)] INFO : Finished instrumentation
+[07/03/13 14:09:03 +0200 walski.local (26180)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:09:03 +0200 walski.local (26180)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:09:03 +0200 walski.local (26180)] INFO : Reading configuration from 
+[07/03/13 14:09:03 +0200 walski.local (26180)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:09:03 +0200 walski.local (26180)] INFO : Enabling the Request Sampler.
+[07/03/13 14:09:03 +0200 walski.local (26180)] INFO : Environment: test
+[07/03/13 14:09:03 +0200 walski.local (26180)] INFO : No known dispatcher detected.
+[07/03/13 14:09:03 +0200 walski.local (26180)] INFO : Application: test
+[07/03/13 14:09:03 +0200 walski.local (26180)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:09:03 +0200 walski.local (26180)] INFO : Installing Net instrumentation
+[07/03/13 14:09:03 +0200 walski.local (26180)] INFO : Finished instrumentation
+[07/03/13 14:13:02 +0200 walski.local (26310)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:13:02 +0200 walski.local (26310)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:13:02 +0200 walski.local (26310)] INFO : Reading configuration from 
+[07/03/13 14:13:02 +0200 walski.local (26310)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:13:02 +0200 walski.local (26310)] INFO : Enabling the Request Sampler.
+[07/03/13 14:13:02 +0200 walski.local (26310)] INFO : Environment: test
+[07/03/13 14:13:02 +0200 walski.local (26310)] INFO : No known dispatcher detected.
+[07/03/13 14:13:02 +0200 walski.local (26310)] INFO : Application: test
+[07/03/13 14:13:02 +0200 walski.local (26310)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:13:02 +0200 walski.local (26310)] INFO : Installing Net instrumentation
+[07/03/13 14:13:02 +0200 walski.local (26310)] INFO : Finished instrumentation
+[07/03/13 14:14:51 +0200 walski.local (26403)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:14:51 +0200 walski.local (26403)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:14:51 +0200 walski.local (26403)] INFO : Reading configuration from 
+[07/03/13 14:14:51 +0200 walski.local (26403)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:14:51 +0200 walski.local (26403)] INFO : Enabling the Request Sampler.
+[07/03/13 14:14:51 +0200 walski.local (26403)] INFO : Environment: test
+[07/03/13 14:14:51 +0200 walski.local (26403)] INFO : No known dispatcher detected.
+[07/03/13 14:14:51 +0200 walski.local (26403)] INFO : Application: test
+[07/03/13 14:14:51 +0200 walski.local (26403)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:14:51 +0200 walski.local (26403)] INFO : Installing Net instrumentation
+[07/03/13 14:14:51 +0200 walski.local (26403)] INFO : Finished instrumentation
+[07/03/13 14:15:24 +0200 walski.local (26837)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:15:24 +0200 walski.local (26837)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:15:24 +0200 walski.local (26837)] INFO : Reading configuration from 
+[07/03/13 14:15:24 +0200 walski.local (26837)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:15:24 +0200 walski.local (26837)] INFO : Enabling the Request Sampler.
+[07/03/13 14:15:24 +0200 walski.local (26837)] INFO : Environment: test
+[07/03/13 14:15:24 +0200 walski.local (26837)] INFO : No known dispatcher detected.
+[07/03/13 14:15:24 +0200 walski.local (26837)] INFO : Application: test
+[07/03/13 14:15:24 +0200 walski.local (26837)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:15:24 +0200 walski.local (26837)] INFO : Installing Net instrumentation
+[07/03/13 14:15:24 +0200 walski.local (26837)] INFO : Finished instrumentation
+[07/03/13 14:16:36 +0200 walski.local (26993)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:16:36 +0200 walski.local (26993)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:16:36 +0200 walski.local (26993)] INFO : Reading configuration from 
+[07/03/13 14:16:36 +0200 walski.local (26993)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:16:36 +0200 walski.local (26993)] INFO : Enabling the Request Sampler.
+[07/03/13 14:16:36 +0200 walski.local (26993)] INFO : Environment: test
+[07/03/13 14:16:36 +0200 walski.local (26993)] INFO : No known dispatcher detected.
+[07/03/13 14:16:36 +0200 walski.local (26993)] INFO : Application: test
+[07/03/13 14:16:36 +0200 walski.local (26993)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:16:36 +0200 walski.local (26993)] INFO : Installing Net instrumentation
+[07/03/13 14:16:36 +0200 walski.local (26993)] INFO : Finished instrumentation
+[07/03/13 14:21:55 +0200 walski.local (27301)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:21:55 +0200 walski.local (27301)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:21:55 +0200 walski.local (27301)] INFO : Reading configuration from 
+[07/03/13 14:21:55 +0200 walski.local (27301)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:21:55 +0200 walski.local (27301)] INFO : Enabling the Request Sampler.
+[07/03/13 14:21:55 +0200 walski.local (27301)] INFO : Environment: test
+[07/03/13 14:21:55 +0200 walski.local (27301)] INFO : No known dispatcher detected.
+[07/03/13 14:21:55 +0200 walski.local (27301)] INFO : Application: test
+[07/03/13 14:21:55 +0200 walski.local (27301)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:21:55 +0200 walski.local (27301)] INFO : Installing Net instrumentation
+[07/03/13 14:21:55 +0200 walski.local (27301)] INFO : Finished instrumentation
+[07/03/13 14:22:20 +0200 walski.local (27450)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:22:20 +0200 walski.local (27450)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:22:20 +0200 walski.local (27450)] INFO : Reading configuration from 
+[07/03/13 14:22:20 +0200 walski.local (27450)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:22:20 +0200 walski.local (27450)] INFO : Enabling the Request Sampler.
+[07/03/13 14:22:20 +0200 walski.local (27450)] INFO : Environment: test
+[07/03/13 14:22:20 +0200 walski.local (27450)] INFO : No known dispatcher detected.
+[07/03/13 14:22:20 +0200 walski.local (27450)] INFO : Application: test
+[07/03/13 14:22:20 +0200 walski.local (27450)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:22:20 +0200 walski.local (27450)] INFO : Installing Net instrumentation
+[07/03/13 14:22:20 +0200 walski.local (27450)] INFO : Finished instrumentation
+[07/03/13 14:22:59 +0200 walski.local (27507)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:22:59 +0200 walski.local (27507)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:22:59 +0200 walski.local (27507)] INFO : Reading configuration from 
+[07/03/13 14:22:59 +0200 walski.local (27507)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:22:59 +0200 walski.local (27507)] INFO : Enabling the Request Sampler.
+[07/03/13 14:22:59 +0200 walski.local (27507)] INFO : Environment: test
+[07/03/13 14:22:59 +0200 walski.local (27507)] INFO : No known dispatcher detected.
+[07/03/13 14:22:59 +0200 walski.local (27507)] INFO : Application: test
+[07/03/13 14:22:59 +0200 walski.local (27507)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:22:59 +0200 walski.local (27507)] INFO : Installing Net instrumentation
+[07/03/13 14:22:59 +0200 walski.local (27507)] INFO : Finished instrumentation
+[07/03/13 14:23:29 +0200 walski.local (27668)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:23:29 +0200 walski.local (27668)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:23:29 +0200 walski.local (27668)] INFO : Reading configuration from 
+[07/03/13 14:23:29 +0200 walski.local (27668)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:23:29 +0200 walski.local (27668)] INFO : Enabling the Request Sampler.
+[07/03/13 14:23:29 +0200 walski.local (27668)] INFO : Environment: test
+[07/03/13 14:23:29 +0200 walski.local (27668)] INFO : No known dispatcher detected.
+[07/03/13 14:23:29 +0200 walski.local (27668)] INFO : Application: test
+[07/03/13 14:23:29 +0200 walski.local (27668)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:23:29 +0200 walski.local (27668)] INFO : Installing Net instrumentation
+[07/03/13 14:23:29 +0200 walski.local (27668)] INFO : Finished instrumentation
+[07/03/13 14:24:34 +0200 walski.local (28059)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:24:34 +0200 walski.local (28059)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:24:34 +0200 walski.local (28059)] INFO : Reading configuration from 
+[07/03/13 14:24:34 +0200 walski.local (28059)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:24:34 +0200 walski.local (28059)] INFO : Enabling the Request Sampler.
+[07/03/13 14:24:34 +0200 walski.local (28059)] INFO : Environment: test
+[07/03/13 14:24:34 +0200 walski.local (28059)] INFO : No known dispatcher detected.
+[07/03/13 14:24:34 +0200 walski.local (28059)] INFO : Application: test
+[07/03/13 14:24:34 +0200 walski.local (28059)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:24:34 +0200 walski.local (28059)] INFO : Installing Net instrumentation
+[07/03/13 14:24:34 +0200 walski.local (28059)] INFO : Finished instrumentation
+[07/03/13 14:25:07 +0200 walski.local (28259)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:25:07 +0200 walski.local (28259)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:25:07 +0200 walski.local (28259)] INFO : Reading configuration from 
+[07/03/13 14:25:07 +0200 walski.local (28259)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:25:07 +0200 walski.local (28259)] INFO : Enabling the Request Sampler.
+[07/03/13 14:25:07 +0200 walski.local (28259)] INFO : Environment: test
+[07/03/13 14:25:07 +0200 walski.local (28259)] INFO : No known dispatcher detected.
+[07/03/13 14:25:07 +0200 walski.local (28259)] INFO : Application: test
+[07/03/13 14:25:07 +0200 walski.local (28259)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:25:07 +0200 walski.local (28259)] INFO : Installing Net instrumentation
+[07/03/13 14:25:07 +0200 walski.local (28259)] INFO : Finished instrumentation
+[07/03/13 14:25:50 +0200 walski.local (28360)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:25:50 +0200 walski.local (28360)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:25:50 +0200 walski.local (28360)] INFO : Reading configuration from 
+[07/03/13 14:25:50 +0200 walski.local (28360)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:25:50 +0200 walski.local (28360)] INFO : Enabling the Request Sampler.
+[07/03/13 14:25:50 +0200 walski.local (28360)] INFO : Environment: test
+[07/03/13 14:25:50 +0200 walski.local (28360)] INFO : No known dispatcher detected.
+[07/03/13 14:25:50 +0200 walski.local (28360)] INFO : Application: test
+[07/03/13 14:25:50 +0200 walski.local (28360)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:25:50 +0200 walski.local (28360)] INFO : Installing Net instrumentation
+[07/03/13 14:25:50 +0200 walski.local (28360)] INFO : Finished instrumentation
+[07/03/13 14:27:36 +0200 walski.local (29291)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:27:36 +0200 walski.local (29291)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:27:36 +0200 walski.local (29291)] INFO : Reading configuration from 
+[07/03/13 14:27:36 +0200 walski.local (29291)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:27:36 +0200 walski.local (29291)] INFO : Enabling the Request Sampler.
+[07/03/13 14:27:36 +0200 walski.local (29291)] INFO : Environment: test
+[07/03/13 14:27:36 +0200 walski.local (29291)] INFO : No known dispatcher detected.
+[07/03/13 14:27:36 +0200 walski.local (29291)] INFO : Application: test
+[07/03/13 14:27:36 +0200 walski.local (29291)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:27:36 +0200 walski.local (29291)] INFO : Installing Net instrumentation
+[07/03/13 14:27:36 +0200 walski.local (29291)] INFO : Finished instrumentation
+[07/03/13 14:28:34 +0200 walski.local (29491)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:28:34 +0200 walski.local (29491)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:28:34 +0200 walski.local (29491)] INFO : Reading configuration from 
+[07/03/13 14:28:34 +0200 walski.local (29491)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:28:34 +0200 walski.local (29491)] INFO : Enabling the Request Sampler.
+[07/03/13 14:28:34 +0200 walski.local (29491)] INFO : Environment: test
+[07/03/13 14:28:34 +0200 walski.local (29491)] INFO : No known dispatcher detected.
+[07/03/13 14:28:34 +0200 walski.local (29491)] INFO : Application: test
+[07/03/13 14:28:34 +0200 walski.local (29491)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:28:34 +0200 walski.local (29491)] INFO : Installing Net instrumentation
+[07/03/13 14:28:34 +0200 walski.local (29491)] INFO : Finished instrumentation
+[07/03/13 14:45:23 +0200 walski.local (30569)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:45:23 +0200 walski.local (30569)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:45:23 +0200 walski.local (30569)] INFO : Reading configuration from 
+[07/03/13 14:45:23 +0200 walski.local (30569)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:45:23 +0200 walski.local (30569)] INFO : Enabling the Request Sampler.
+[07/03/13 14:45:23 +0200 walski.local (30569)] INFO : Environment: test
+[07/03/13 14:45:23 +0200 walski.local (30569)] INFO : No known dispatcher detected.
+[07/03/13 14:45:23 +0200 walski.local (30569)] INFO : Application: test
+[07/03/13 14:45:23 +0200 walski.local (30569)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:45:23 +0200 walski.local (30569)] INFO : Installing Net instrumentation
+[07/03/13 14:45:23 +0200 walski.local (30569)] INFO : Finished instrumentation
+[07/03/13 14:55:49 +0200 walski.local (30824)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:55:49 +0200 walski.local (30824)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:55:49 +0200 walski.local (30824)] INFO : Reading configuration from 
+[07/03/13 14:55:49 +0200 walski.local (30824)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:55:49 +0200 walski.local (30824)] INFO : Enabling the Request Sampler.
+[07/03/13 14:55:49 +0200 walski.local (30824)] INFO : Environment: test
+[07/03/13 14:55:49 +0200 walski.local (30824)] INFO : No known dispatcher detected.
+[07/03/13 14:55:49 +0200 walski.local (30824)] INFO : Application: test
+[07/03/13 14:55:49 +0200 walski.local (30824)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:55:49 +0200 walski.local (30824)] INFO : Installing Net instrumentation
+[07/03/13 14:55:49 +0200 walski.local (30824)] INFO : Finished instrumentation
+[07/03/13 14:56:23 +0200 walski.local (30925)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 14:56:23 +0200 walski.local (30925)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 14:56:23 +0200 walski.local (30925)] INFO : Reading configuration from 
+[07/03/13 14:56:23 +0200 walski.local (30925)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 14:56:23 +0200 walski.local (30925)] INFO : Enabling the Request Sampler.
+[07/03/13 14:56:23 +0200 walski.local (30925)] INFO : Environment: test
+[07/03/13 14:56:23 +0200 walski.local (30925)] INFO : No known dispatcher detected.
+[07/03/13 14:56:23 +0200 walski.local (30925)] INFO : Application: test
+[07/03/13 14:56:23 +0200 walski.local (30925)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 14:56:23 +0200 walski.local (30925)] INFO : Installing Net instrumentation
+[07/03/13 14:56:23 +0200 walski.local (30925)] INFO : Finished instrumentation
+[07/03/13 15:05:47 +0200 walski.local (32299)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:05:47 +0200 walski.local (32299)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:05:47 +0200 walski.local (32299)] INFO : Reading configuration from 
+[07/03/13 15:05:47 +0200 walski.local (32299)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:05:47 +0200 walski.local (32299)] INFO : Enabling the Request Sampler.
+[07/03/13 15:05:47 +0200 walski.local (32299)] INFO : Environment: test
+[07/03/13 15:05:47 +0200 walski.local (32299)] INFO : No known dispatcher detected.
+[07/03/13 15:05:47 +0200 walski.local (32299)] INFO : Application: test
+[07/03/13 15:05:47 +0200 walski.local (32299)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:05:47 +0200 walski.local (32299)] INFO : Installing Net instrumentation
+[07/03/13 15:05:47 +0200 walski.local (32299)] INFO : Finished instrumentation
+[07/03/13 15:08:09 +0200 walski.local (32439)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:08:09 +0200 walski.local (32439)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:08:09 +0200 walski.local (32439)] INFO : Reading configuration from 
+[07/03/13 15:08:09 +0200 walski.local (32439)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:08:09 +0200 walski.local (32439)] INFO : Enabling the Request Sampler.
+[07/03/13 15:08:09 +0200 walski.local (32439)] INFO : Environment: test
+[07/03/13 15:08:09 +0200 walski.local (32439)] INFO : No known dispatcher detected.
+[07/03/13 15:08:09 +0200 walski.local (32439)] INFO : Application: test
+[07/03/13 15:08:09 +0200 walski.local (32439)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:08:09 +0200 walski.local (32439)] INFO : Installing Net instrumentation
+[07/03/13 15:08:09 +0200 walski.local (32439)] INFO : Finished instrumentation
+[07/03/13 15:10:27 +0200 walski.local (32547)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:10:27 +0200 walski.local (32547)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:10:27 +0200 walski.local (32547)] INFO : Reading configuration from 
+[07/03/13 15:10:27 +0200 walski.local (32547)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:10:27 +0200 walski.local (32547)] INFO : Enabling the Request Sampler.
+[07/03/13 15:10:27 +0200 walski.local (32547)] INFO : Environment: test
+[07/03/13 15:10:27 +0200 walski.local (32547)] INFO : No known dispatcher detected.
+[07/03/13 15:10:27 +0200 walski.local (32547)] INFO : Application: test
+[07/03/13 15:10:27 +0200 walski.local (32547)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:10:27 +0200 walski.local (32547)] INFO : Installing Net instrumentation
+[07/03/13 15:10:27 +0200 walski.local (32547)] INFO : Finished instrumentation
+[07/03/13 15:13:00 +0200 walski.local (32787)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:13:00 +0200 walski.local (32787)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:13:00 +0200 walski.local (32787)] INFO : Reading configuration from 
+[07/03/13 15:13:00 +0200 walski.local (32787)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:13:00 +0200 walski.local (32787)] INFO : Enabling the Request Sampler.
+[07/03/13 15:13:00 +0200 walski.local (32787)] INFO : Environment: test
+[07/03/13 15:13:00 +0200 walski.local (32787)] INFO : No known dispatcher detected.
+[07/03/13 15:13:00 +0200 walski.local (32787)] INFO : Application: test
+[07/03/13 15:13:00 +0200 walski.local (32787)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:13:00 +0200 walski.local (32787)] INFO : Installing Net instrumentation
+[07/03/13 15:13:00 +0200 walski.local (32787)] INFO : Finished instrumentation
+[07/03/13 15:13:40 +0200 walski.local (32896)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:13:40 +0200 walski.local (32896)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:13:40 +0200 walski.local (32896)] INFO : Reading configuration from 
+[07/03/13 15:13:40 +0200 walski.local (32896)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:13:40 +0200 walski.local (32896)] INFO : Enabling the Request Sampler.
+[07/03/13 15:13:40 +0200 walski.local (32896)] INFO : Environment: test
+[07/03/13 15:13:40 +0200 walski.local (32896)] INFO : No known dispatcher detected.
+[07/03/13 15:13:40 +0200 walski.local (32896)] INFO : Application: test
+[07/03/13 15:13:40 +0200 walski.local (32896)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:13:40 +0200 walski.local (32896)] INFO : Installing Net instrumentation
+[07/03/13 15:13:40 +0200 walski.local (32896)] INFO : Finished instrumentation
+[07/03/13 15:14:30 +0200 walski.local (33074)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:14:30 +0200 walski.local (33074)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:14:30 +0200 walski.local (33074)] INFO : Reading configuration from 
+[07/03/13 15:14:30 +0200 walski.local (33074)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:14:30 +0200 walski.local (33074)] INFO : Enabling the Request Sampler.
+[07/03/13 15:14:30 +0200 walski.local (33074)] INFO : Environment: test
+[07/03/13 15:14:30 +0200 walski.local (33074)] INFO : No known dispatcher detected.
+[07/03/13 15:14:30 +0200 walski.local (33074)] INFO : Application: test
+[07/03/13 15:14:30 +0200 walski.local (33074)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:14:30 +0200 walski.local (33074)] INFO : Installing Net instrumentation
+[07/03/13 15:14:30 +0200 walski.local (33074)] INFO : Finished instrumentation
+[07/03/13 15:15:58 +0200 walski.local (33366)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:15:58 +0200 walski.local (33366)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:15:58 +0200 walski.local (33366)] INFO : Reading configuration from 
+[07/03/13 15:15:58 +0200 walski.local (33366)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:15:58 +0200 walski.local (33366)] INFO : Enabling the Request Sampler.
+[07/03/13 15:15:58 +0200 walski.local (33366)] INFO : Environment: test
+[07/03/13 15:15:58 +0200 walski.local (33366)] INFO : No known dispatcher detected.
+[07/03/13 15:15:58 +0200 walski.local (33366)] INFO : Application: test
+[07/03/13 15:15:58 +0200 walski.local (33366)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:15:58 +0200 walski.local (33366)] INFO : Installing Net instrumentation
+[07/03/13 15:15:58 +0200 walski.local (33366)] INFO : Finished instrumentation
+[07/03/13 15:24:13 +0200 walski.local (33645)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:24:13 +0200 walski.local (33645)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:24:13 +0200 walski.local (33645)] INFO : Reading configuration from 
+[07/03/13 15:24:13 +0200 walski.local (33645)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:24:13 +0200 walski.local (33645)] INFO : Enabling the Request Sampler.
+[07/03/13 15:24:13 +0200 walski.local (33645)] INFO : Environment: test
+[07/03/13 15:24:13 +0200 walski.local (33645)] INFO : No known dispatcher detected.
+[07/03/13 15:24:13 +0200 walski.local (33645)] INFO : Application: test
+[07/03/13 15:24:13 +0200 walski.local (33645)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:24:13 +0200 walski.local (33645)] INFO : Installing Net instrumentation
+[07/03/13 15:24:13 +0200 walski.local (33645)] INFO : Finished instrumentation
+[07/03/13 15:25:27 +0200 walski.local (33758)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:25:27 +0200 walski.local (33758)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:25:27 +0200 walski.local (33758)] INFO : Reading configuration from 
+[07/03/13 15:25:27 +0200 walski.local (33758)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:25:27 +0200 walski.local (33758)] INFO : Enabling the Request Sampler.
+[07/03/13 15:25:27 +0200 walski.local (33758)] INFO : Environment: test
+[07/03/13 15:25:27 +0200 walski.local (33758)] INFO : No known dispatcher detected.
+[07/03/13 15:25:27 +0200 walski.local (33758)] INFO : Application: test
+[07/03/13 15:25:27 +0200 walski.local (33758)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:25:27 +0200 walski.local (33758)] INFO : Installing Net instrumentation
+[07/03/13 15:25:27 +0200 walski.local (33758)] INFO : Finished instrumentation
+[07/03/13 15:30:12 +0200 walski.local (33841)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:30:12 +0200 walski.local (33841)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:30:12 +0200 walski.local (33841)] INFO : Reading configuration from 
+[07/03/13 15:30:12 +0200 walski.local (33841)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:30:12 +0200 walski.local (33841)] INFO : Enabling the Request Sampler.
+[07/03/13 15:30:12 +0200 walski.local (33841)] INFO : Environment: test
+[07/03/13 15:30:12 +0200 walski.local (33841)] INFO : No known dispatcher detected.
+[07/03/13 15:30:12 +0200 walski.local (33841)] INFO : Application: test
+[07/03/13 15:30:12 +0200 walski.local (33841)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:30:12 +0200 walski.local (33841)] INFO : Installing Net instrumentation
+[07/03/13 15:30:12 +0200 walski.local (33841)] INFO : Finished instrumentation
+[07/03/13 15:30:58 +0200 walski.local (33942)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:30:58 +0200 walski.local (33942)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:30:58 +0200 walski.local (33942)] INFO : Reading configuration from 
+[07/03/13 15:30:58 +0200 walski.local (33942)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:30:58 +0200 walski.local (33942)] INFO : Enabling the Request Sampler.
+[07/03/13 15:30:58 +0200 walski.local (33942)] INFO : Environment: test
+[07/03/13 15:30:58 +0200 walski.local (33942)] INFO : No known dispatcher detected.
+[07/03/13 15:30:58 +0200 walski.local (33942)] INFO : Application: test
+[07/03/13 15:30:58 +0200 walski.local (33942)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:30:58 +0200 walski.local (33942)] INFO : Installing Net instrumentation
+[07/03/13 15:30:58 +0200 walski.local (33942)] INFO : Finished instrumentation
+[07/03/13 15:46:15 +0200 walski.local (37274)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:46:15 +0200 walski.local (37274)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:46:15 +0200 walski.local (37274)] INFO : Reading configuration from 
+[07/03/13 15:46:15 +0200 walski.local (37274)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:46:15 +0200 walski.local (37274)] INFO : Enabling the Request Sampler.
+[07/03/13 15:46:15 +0200 walski.local (37274)] INFO : Environment: test
+[07/03/13 15:46:15 +0200 walski.local (37274)] INFO : No known dispatcher detected.
+[07/03/13 15:46:15 +0200 walski.local (37274)] INFO : Application: test
+[07/03/13 15:46:15 +0200 walski.local (37274)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:46:15 +0200 walski.local (37274)] INFO : Installing Net instrumentation
+[07/03/13 15:46:15 +0200 walski.local (37274)] INFO : Finished instrumentation
+[07/03/13 15:49:44 +0200 walski.local (37604)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:49:44 +0200 walski.local (37604)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:49:44 +0200 walski.local (37604)] INFO : Reading configuration from 
+[07/03/13 15:49:44 +0200 walski.local (37604)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:49:44 +0200 walski.local (37604)] INFO : Enabling the Request Sampler.
+[07/03/13 15:49:44 +0200 walski.local (37604)] INFO : Environment: test
+[07/03/13 15:49:44 +0200 walski.local (37604)] INFO : No known dispatcher detected.
+[07/03/13 15:49:44 +0200 walski.local (37604)] INFO : Application: test
+[07/03/13 15:49:44 +0200 walski.local (37604)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:49:44 +0200 walski.local (37604)] INFO : Installing Net instrumentation
+[07/03/13 15:49:44 +0200 walski.local (37604)] INFO : Finished instrumentation
+[07/03/13 15:50:34 +0200 walski.local (37713)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:50:34 +0200 walski.local (37713)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:50:34 +0200 walski.local (37713)] INFO : Reading configuration from 
+[07/03/13 15:50:34 +0200 walski.local (37713)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:50:34 +0200 walski.local (37713)] INFO : Enabling the Request Sampler.
+[07/03/13 15:50:34 +0200 walski.local (37713)] INFO : Environment: test
+[07/03/13 15:50:34 +0200 walski.local (37713)] INFO : No known dispatcher detected.
+[07/03/13 15:50:34 +0200 walski.local (37713)] INFO : Application: test
+[07/03/13 15:50:34 +0200 walski.local (37713)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:50:34 +0200 walski.local (37713)] INFO : Installing Net instrumentation
+[07/03/13 15:50:34 +0200 walski.local (37713)] INFO : Finished instrumentation
+[07/03/13 15:53:56 +0200 walski.local (37826)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:53:56 +0200 walski.local (37826)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:53:56 +0200 walski.local (37826)] INFO : Reading configuration from 
+[07/03/13 15:53:56 +0200 walski.local (37826)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:53:56 +0200 walski.local (37826)] INFO : Enabling the Request Sampler.
+[07/03/13 15:53:56 +0200 walski.local (37826)] INFO : Environment: test
+[07/03/13 15:53:56 +0200 walski.local (37826)] INFO : No known dispatcher detected.
+[07/03/13 15:53:56 +0200 walski.local (37826)] INFO : Application: test
+[07/03/13 15:53:56 +0200 walski.local (37826)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:53:56 +0200 walski.local (37826)] INFO : Installing Net instrumentation
+[07/03/13 15:53:56 +0200 walski.local (37826)] INFO : Finished instrumentation
+[07/03/13 15:54:48 +0200 walski.local (38010)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:54:48 +0200 walski.local (38010)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:54:48 +0200 walski.local (38010)] INFO : Reading configuration from 
+[07/03/13 15:54:48 +0200 walski.local (38010)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:54:48 +0200 walski.local (38010)] INFO : Enabling the Request Sampler.
+[07/03/13 15:54:48 +0200 walski.local (38010)] INFO : Environment: test
+[07/03/13 15:54:48 +0200 walski.local (38010)] INFO : No known dispatcher detected.
+[07/03/13 15:54:48 +0200 walski.local (38010)] INFO : Application: test
+[07/03/13 15:54:48 +0200 walski.local (38010)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:54:48 +0200 walski.local (38010)] INFO : Installing Net instrumentation
+[07/03/13 15:54:48 +0200 walski.local (38010)] INFO : Finished instrumentation
+[07/03/13 15:55:32 +0200 walski.local (38193)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:55:32 +0200 walski.local (38193)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:55:32 +0200 walski.local (38193)] INFO : Reading configuration from 
+[07/03/13 15:55:32 +0200 walski.local (38193)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:55:32 +0200 walski.local (38193)] INFO : Enabling the Request Sampler.
+[07/03/13 15:55:32 +0200 walski.local (38193)] INFO : Environment: test
+[07/03/13 15:55:32 +0200 walski.local (38193)] INFO : No known dispatcher detected.
+[07/03/13 15:55:32 +0200 walski.local (38193)] INFO : Application: test
+[07/03/13 15:55:32 +0200 walski.local (38193)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:55:32 +0200 walski.local (38193)] INFO : Installing Net instrumentation
+[07/03/13 15:55:32 +0200 walski.local (38193)] INFO : Finished instrumentation
+[07/03/13 15:56:28 +0200 walski.local (38355)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 15:56:28 +0200 walski.local (38355)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 15:56:28 +0200 walski.local (38355)] INFO : Reading configuration from 
+[07/03/13 15:56:28 +0200 walski.local (38355)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 15:56:28 +0200 walski.local (38355)] INFO : Enabling the Request Sampler.
+[07/03/13 15:56:28 +0200 walski.local (38355)] INFO : Environment: test
+[07/03/13 15:56:28 +0200 walski.local (38355)] INFO : No known dispatcher detected.
+[07/03/13 15:56:28 +0200 walski.local (38355)] INFO : Application: test
+[07/03/13 15:56:28 +0200 walski.local (38355)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 15:56:28 +0200 walski.local (38355)] INFO : Installing Net instrumentation
+[07/03/13 15:56:28 +0200 walski.local (38355)] INFO : Finished instrumentation
+[07/03/13 16:00:15 +0200 walski.local (38584)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 16:00:15 +0200 walski.local (38584)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 16:00:15 +0200 walski.local (38584)] INFO : Reading configuration from 
+[07/03/13 16:00:15 +0200 walski.local (38584)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 16:00:15 +0200 walski.local (38584)] INFO : Enabling the Request Sampler.
+[07/03/13 16:00:15 +0200 walski.local (38584)] INFO : Environment: test
+[07/03/13 16:00:15 +0200 walski.local (38584)] INFO : No known dispatcher detected.
+[07/03/13 16:00:15 +0200 walski.local (38584)] INFO : Application: test
+[07/03/13 16:00:15 +0200 walski.local (38584)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 16:00:15 +0200 walski.local (38584)] INFO : Installing Net instrumentation
+[07/03/13 16:00:15 +0200 walski.local (38584)] INFO : Finished instrumentation
+[07/03/13 16:09:12 +0200 walski.local (39099)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 16:09:12 +0200 walski.local (39099)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 16:09:12 +0200 walski.local (39099)] INFO : Reading configuration from 
+[07/03/13 16:09:12 +0200 walski.local (39099)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 16:09:12 +0200 walski.local (39099)] INFO : Enabling the Request Sampler.
+[07/03/13 16:09:12 +0200 walski.local (39099)] INFO : Environment: test
+[07/03/13 16:09:12 +0200 walski.local (39099)] INFO : No known dispatcher detected.
+[07/03/13 16:09:12 +0200 walski.local (39099)] INFO : Application: test
+[07/03/13 16:09:12 +0200 walski.local (39099)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 16:09:12 +0200 walski.local (39099)] INFO : Installing Net instrumentation
+[07/03/13 16:09:12 +0200 walski.local (39099)] INFO : Finished instrumentation
+[07/03/13 16:09:58 +0200 walski.local (39208)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 16:09:58 +0200 walski.local (39208)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 16:09:58 +0200 walski.local (39208)] INFO : Reading configuration from 
+[07/03/13 16:09:58 +0200 walski.local (39208)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 16:09:58 +0200 walski.local (39208)] INFO : Enabling the Request Sampler.
+[07/03/13 16:09:58 +0200 walski.local (39208)] INFO : Environment: test
+[07/03/13 16:09:58 +0200 walski.local (39208)] INFO : No known dispatcher detected.
+[07/03/13 16:09:58 +0200 walski.local (39208)] INFO : Application: test
+[07/03/13 16:09:58 +0200 walski.local (39208)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 16:09:58 +0200 walski.local (39208)] INFO : Installing Net instrumentation
+[07/03/13 16:09:58 +0200 walski.local (39208)] INFO : Finished instrumentation
+[07/03/13 16:13:10 +0200 walski.local (39273)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 16:13:10 +0200 walski.local (39273)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 16:13:10 +0200 walski.local (39273)] INFO : Reading configuration from 
+[07/03/13 16:13:10 +0200 walski.local (39273)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 16:13:10 +0200 walski.local (39273)] INFO : Enabling the Request Sampler.
+[07/03/13 16:13:10 +0200 walski.local (39273)] INFO : Environment: test
+[07/03/13 16:13:10 +0200 walski.local (39273)] INFO : No known dispatcher detected.
+[07/03/13 16:13:10 +0200 walski.local (39273)] INFO : Application: test
+[07/03/13 16:13:10 +0200 walski.local (39273)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 16:13:10 +0200 walski.local (39273)] INFO : Installing Net instrumentation
+[07/03/13 16:13:10 +0200 walski.local (39273)] INFO : Finished instrumentation
+[07/03/13 16:13:46 +0200 walski.local (39353)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 16:13:46 +0200 walski.local (39353)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 16:13:46 +0200 walski.local (39353)] INFO : Reading configuration from 
+[07/03/13 16:13:46 +0200 walski.local (39353)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 16:13:46 +0200 walski.local (39353)] INFO : Enabling the Request Sampler.
+[07/03/13 16:13:46 +0200 walski.local (39353)] INFO : Environment: test
+[07/03/13 16:13:46 +0200 walski.local (39353)] INFO : No known dispatcher detected.
+[07/03/13 16:13:46 +0200 walski.local (39353)] INFO : Application: test
+[07/03/13 16:13:46 +0200 walski.local (39353)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 16:13:46 +0200 walski.local (39353)] INFO : Installing Net instrumentation
+[07/03/13 16:13:46 +0200 walski.local (39353)] INFO : Finished instrumentation
+[07/03/13 16:15:18 +0200 walski.local (39901)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 16:15:18 +0200 walski.local (39901)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 16:15:18 +0200 walski.local (39901)] INFO : Reading configuration from 
+[07/03/13 16:15:18 +0200 walski.local (39901)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 16:15:18 +0200 walski.local (39901)] INFO : Enabling the Request Sampler.
+[07/03/13 16:15:18 +0200 walski.local (39901)] INFO : Environment: test
+[07/03/13 16:15:18 +0200 walski.local (39901)] INFO : No known dispatcher detected.
+[07/03/13 16:15:18 +0200 walski.local (39901)] INFO : Application: test
+[07/03/13 16:15:18 +0200 walski.local (39901)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 16:15:18 +0200 walski.local (39901)] INFO : Installing Net instrumentation
+[07/03/13 16:15:18 +0200 walski.local (39901)] INFO : Finished instrumentation
+[07/03/13 16:16:03 +0200 walski.local (40045)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 16:16:03 +0200 walski.local (40045)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 16:16:03 +0200 walski.local (40045)] INFO : Reading configuration from 
+[07/03/13 16:16:03 +0200 walski.local (40045)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 16:16:03 +0200 walski.local (40045)] INFO : Enabling the Request Sampler.
+[07/03/13 16:16:03 +0200 walski.local (40045)] INFO : Environment: test
+[07/03/13 16:16:03 +0200 walski.local (40045)] INFO : No known dispatcher detected.
+[07/03/13 16:16:03 +0200 walski.local (40045)] INFO : Application: test
+[07/03/13 16:16:03 +0200 walski.local (40045)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 16:16:03 +0200 walski.local (40045)] INFO : Installing Net instrumentation
+[07/03/13 16:16:03 +0200 walski.local (40045)] INFO : Finished instrumentation
+[07/03/13 16:17:23 +0200 walski.local (40368)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 16:17:23 +0200 walski.local (40368)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 16:17:23 +0200 walski.local (40368)] INFO : Reading configuration from 
+[07/03/13 16:17:23 +0200 walski.local (40368)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 16:17:24 +0200 walski.local (40368)] INFO : Enabling the Request Sampler.
+[07/03/13 16:17:24 +0200 walski.local (40368)] INFO : Environment: test
+[07/03/13 16:17:24 +0200 walski.local (40368)] INFO : No known dispatcher detected.
+[07/03/13 16:17:24 +0200 walski.local (40368)] INFO : Application: test
+[07/03/13 16:17:24 +0200 walski.local (40368)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 16:17:24 +0200 walski.local (40368)] INFO : Installing Net instrumentation
+[07/03/13 16:17:24 +0200 walski.local (40368)] INFO : Finished instrumentation
+[07/03/13 17:07:25 +0200 walski.localdomain (40666)] INFO : Starting the New Relic agent in "test" environment.
+[07/03/13 17:07:25 +0200 walski.localdomain (40666)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "test" section of your newrelic.yml.
+[07/03/13 17:07:25 +0200 walski.localdomain (40666)] INFO : Reading configuration from 
+[07/03/13 17:07:25 +0200 walski.localdomain (40666)] ERROR : Unable to read configuration file : can't convert nil into String
+[07/03/13 17:07:25 +0200 walski.localdomain (40666)] INFO : Enabling the Request Sampler.
+[07/03/13 17:07:25 +0200 walski.localdomain (40666)] INFO : Environment: test
+[07/03/13 17:07:25 +0200 walski.localdomain (40666)] INFO : No known dispatcher detected.
+[07/03/13 17:07:25 +0200 walski.localdomain (40666)] INFO : Application: test
+[07/03/13 17:07:25 +0200 walski.localdomain (40666)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'test'
+[07/03/13 17:07:25 +0200 walski.localdomain (40666)] INFO : Installing Net instrumentation
+[07/03/13 17:07:25 +0200 walski.localdomain (40666)] INFO : Finished instrumentation
